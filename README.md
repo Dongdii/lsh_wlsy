@@ -4,4 +4,4 @@
 用于提交报告前的检验。计算结果保留一位可疑数字，图像绘制为拟合曲线。
 pywlsy.py为程序源文件，pywlsy.exe为通过pyinstaller打包的测执行文件。
 如需联系请发邮件至hat_coder02@icloud.com  
-希望有人在未来能用到这段代码！
+
